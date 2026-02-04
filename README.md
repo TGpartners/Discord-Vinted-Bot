@@ -1,6 +1,6 @@
 # Termes de Service – Bot Discord Vinted
 
-Dernière mise à jour : [à compléter]
+Dernière mise à jour : 04/02/2026
 
 ## 1. Définitions
 - **Bot** : le bot Discord Vinted fourni par le développeur.
